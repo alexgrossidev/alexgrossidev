@@ -7,10 +7,9 @@ I build backend systems that have to stay up: event-driven microservices, queues
 **Available for B2B contracts** across Poland and the EU. EU citizen, JDG ready.
 
 ## Writing
-
+- [Don't buy the shelf]([https://alegrossi.hashnode.dev/don-t-buy-the-shelf]) - why I built bullshoot
 - [Queue management without the distributed system headache](https://alegrossi.hashnode.dev/queue-management-without-the-distributed-system-headache-why-i-built-bullshoot) - why I built bullshoot
 - [Stop coding deduplication: make MySQL destroy your duplicate data for you](https://alegrossi.hashnode.dev/stop-coding-deduplication-make-mysql-destroy-your-duplicate-data-for-you)
-- [Moving faster by accident: how automated guardrails replace bureaucracy](https://alegrossi.hashnode.dev/moving-faster-by-accident-how-automated-guardrails-replace-bureaucracy)
 - [Orchestrating autonomous QA agents without blowing your Claude budget](https://alegrossi.hashnode.dev/orchestrating-autonomous-qa-agents-without-blowing-your-claude-budget)
 - [But HubSpot never gave me problems](https://alegrossi.hashnode.dev/but-hubspot-never-gave-me-problems)
 
