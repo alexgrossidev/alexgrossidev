@@ -1,6 +1,6 @@
 # Alex Grossi
 
-Senior full-stack engineer - Node.js, TypeScript, React. Based in Poznan, Poland.
+Senior full-stack engineer specialised in distributed systems and enterprise architecture - Node.js, TypeScript, React. Based in Poznan, Poland.
 
 I build backend systems that have to stay up: event-driven microservices, queues, multi-tenant data models, and LLM features that ship to real users instead of demos. Most of what I build is closed-source, so I write about the problems instead.
 
