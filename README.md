@@ -8,6 +8,7 @@ I build backend systems that have to stay up: event-driven microservices, queues
 
 ## Writing
 - [Don't buy the shelf](https://alegrossi.hashnode.dev/don-t-buy-the-shelf)
+- [You are now a translator for people who fear computers](https://alegrossi.hashnode.dev/congratulations-you-re-now-a-translator-for-people-who-fear-computers)
 - [Queue management without the distributed system headache](https://alegrossi.hashnode.dev/queue-management-without-the-distributed-system-headache-why-i-built-bullshoot) - why I built bullshoot
 - [Stop coding deduplication: make MySQL destroy your duplicate data for you](https://alegrossi.hashnode.dev/stop-coding-deduplication-make-mysql-destroy-your-duplicate-data-for-you)
 - [Orchestrating autonomous QA agents without blowing your Claude budget](https://alegrossi.hashnode.dev/orchestrating-autonomous-qa-agents-without-blowing-your-claude-budget)
